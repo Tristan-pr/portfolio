@@ -364,6 +364,20 @@ text-indent: 100px;
   width:550px;
 }
 }
+.icon4 {
+  position:relative;
+  height:180px;
+  width:350px;
+}
+@media (min-width: 1025px) {
+.icon4 {
+  top:40px;
+  left:35px;
+  bottom:100px;
+  height:280px;
+  width:550px;
+}
+}
 .h4 {
   text-indent: 50px;
   line-height:1.5;
